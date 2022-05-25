@@ -1,2 +1,2 @@
 # XAI
-Explainable Artificial Intelligence - script
+Explainable Artificial Intelligence - some scripts
